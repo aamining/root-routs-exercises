@@ -5,5 +5,6 @@ class PagesController < ApplicationController
   def homepage
     @name='Ali'
     @day=Time.now
+    
   end
 end

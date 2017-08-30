@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.3'
 # need to replace sqlite3 as the database for coding purpuse
 # gem 'pg'judt used for deployment
-gem 'pg'
+gem 'sqlite3'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
